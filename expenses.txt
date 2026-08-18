@@ -1,0 +1,3 @@
+clothes|20000.0
+shoes|2000.0
+groceries|30000.0
